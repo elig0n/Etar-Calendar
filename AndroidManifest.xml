@@ -57,6 +57,7 @@
         android:taskAffinity="ws.xsoh.etar.task"
         android:requiredAccountType="*"
         android:usesCleartextTraffic="false"
+        android:supportsRtl="true"
         android:theme="@style/CalendarAppThemeLight">
 
         <activity
